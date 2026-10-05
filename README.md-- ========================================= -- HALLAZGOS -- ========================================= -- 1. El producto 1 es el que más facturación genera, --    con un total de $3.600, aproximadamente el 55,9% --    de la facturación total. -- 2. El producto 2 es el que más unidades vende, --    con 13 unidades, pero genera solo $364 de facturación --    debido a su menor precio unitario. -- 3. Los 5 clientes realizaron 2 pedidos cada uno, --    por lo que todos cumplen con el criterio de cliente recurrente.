@@ -1,0 +1,11 @@
+-- ========================================= 
+-- HALLAZGOS 
+-- ========================================= 
+-- 1. El producto 1 es el que más facturación genera, 
+--    con un total de $3.600, aproximadamente el 55,9% 
+--    de la facturación total. 
+-- 2. El producto 2 es el que más unidades vende, 
+--    con 13 unidades, pero genera solo $364 de facturación 
+--    debido a su menor precio unitario. 
+-- 3. Los 5 clientes realizaron 2 pedidos cada uno, 
+-    por lo que todos cumplen con el criterio de cliente recurrente.
